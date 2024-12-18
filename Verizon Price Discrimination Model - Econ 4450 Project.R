@@ -11,12 +11,12 @@ p_cordnever <- 0.23
 n_segments <- c(p_cordstacker, p_cordshaver, p_cordcutter, p_cordnever) * n
 segments <- c("Cord Stackers", "Cord Shavers", "Cord Cutters", "Cord Nevers")
 
-# Verizon plan prices
+# Verizon plan prices; source: <https://www.verizon.com/plans/unlimited/>
 price_welcome <- 30
 price_plus <- 45
 price_ultimate <- 55
 
-# bundle plan prices
+# bundle plan prices; source: <https://www.verizon.com/plans/unlimited/>
 price_welcome_bundle <- 40
 price_plus_bundle <- 55
 price_ultimate_bundle <- 65
