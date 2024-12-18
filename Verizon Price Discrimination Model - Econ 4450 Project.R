@@ -26,7 +26,7 @@ price_appleone <- 19.95 # source: <https://www.apple.com/apple-one/>
 price_walmartplus <- 12.95 # source: <https://www.walmart.com/help/article/walmart-membership/534c4edc29204a6bb15145a61146bf51>
 price_netflixhbomax <- 6.99 + 9.99  # sources: <https://www.netflix.com/signup/planform>, <https://auth.max.com/product>
 
-# WTPs for each customer segment
+# WTPs for each customer segment (please experiment to see how the model changes!)
 wtp_welcome <- c(45, 40, 35, 30)
 wtp_plus <- c(65, 60, 55, 35)
 wtp_ultimate <- c(80, 70, 60, 45)
