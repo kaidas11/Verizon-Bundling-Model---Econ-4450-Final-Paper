@@ -1,6 +1,5 @@
 # This is a model built to demonstrate Verizon's pricing strategy for a final project in Economics - Industrial Organization.
-# Please feel free to experiment with different WTP values in lines 34-36 to see
-# how the model adapts!
+# Please feel free to experiment with different WTP values in lines 33-35 to see how the model adapts!
 
 # sample size
 n <- 100
