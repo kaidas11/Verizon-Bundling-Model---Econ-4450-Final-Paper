@@ -29,7 +29,7 @@ price_netflixhbomax <- 6.99 + 9.99  # sources: <https://www.netflix.com/signup/p
 # WTPs for each customer segment
 wtp_welcome <- c(45, 40, 35, 30)
 wtp_plus <- c(65, 60, 55, 35)
-wtp_ultimate <- c(80, 70, 50, 45)
+wtp_ultimate <- c(80, 70, 60, 45)
 
 # WTPs with bundles
 wtp_welcome_bundle <- wtp_welcome + price_walmartplus
